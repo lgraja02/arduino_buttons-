@@ -22,8 +22,8 @@ The 10kΩ resistors are connected between GND and each button's input pin.
 
 ### Breadboard Overview
 <!-- Insert a top-down photo of the entire setup -->
-![Breadboard overview](images/1.png)
+![Breadboard overview](images/2.png)
 
 ### Close-up of Buttons and Resistors
 <!-- Insert a close-up photo of button wiring and resistors -->
-![Button close-up](images/2.png)
+![Button close-up](images/1.png)
